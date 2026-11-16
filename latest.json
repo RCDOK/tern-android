@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "version": "0.2.0",
-  "apk": "tern-android-0.2.0.apk",
-  "sha256": "be02202a79b6d1e5f6bf78d079bc0ff7ced7294b83a992532346ff152a48d166",
-  "size": 80015,
-  "notes": "Share to Tern, camera, edit, search, tuloy ang sagot kahit naka-lock, fingerprint, read aloud, share chat, custom instructions"
+  "versionCode": 4,
+  "version": "0.3.0",
+  "apk": "tern-android-0.3.0.apk",
+  "sha256": "24cd06ddda67dfdf58417c0b302d914035ec3b7f0ac513de95353ca34ca11bef",
+  "size": 105199,
+  "notes": "Mic, PDF/Word files, Continue, pin, icon shortcuts, backup/restore, mas mabilis; menu ayon sa araw + swipe, code header, Thought for Ns, ↓, Thinking/Fast, mungkahing tanong; bagong Settings"
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "version": "0.3.0",
-  "apk": "tern-android-0.3.0.apk",
-  "sha256": "24cd06ddda67dfdf58417c0b302d914035ec3b7f0ac513de95353ca34ca11bef",
-  "size": 105199,
-  "notes": "Mic, PDF/Word files, Continue, pin, icon shortcuts, backup/restore, mas mabilis; menu ayon sa araw + swipe, code header, Thought for Ns, ↓, Thinking/Fast, mungkahing tanong; bagong Settings"
+  "versionCode": 5,
+  "version": "0.3.1",
+  "apk": "tern-android-0.3.1.apk",
+  "sha256": "532b8f75196239698b93568f34e31448867e506ef539d59e7426817474fd4442",
+  "size": 105431,
+  "notes": "Mga ayos: Share habang sumasagot, Undo kita sa menu, Continue, hold vs swipe, shortcut habang sumasagot"
 }

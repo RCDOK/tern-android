@@ -1,0 +1,8 @@
+{
+  "versionCode": 1,
+  "version": "0.1.0",
+  "apk": "tern-android-0.1.0.apk",
+  "sha256": "ea84907c2ea8d94e7b8126e63fa7449e5bdedf5aac166281567b5ab410cfd657",
+  "size": 38071,
+  "notes": "First version: chat, pictures, Fast, OTA"
+}

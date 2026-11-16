@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "version": "0.1.1",
-  "apk": "tern-android-0.1.1.apk",
-  "sha256": "e8ec909a59c6e66d3f9e0992f26251bfc907534fa846f07842136ce75103f00d",
-  "size": 64675,
-  "notes": "Bagong icon: puting ibon sa clay, kita na sa home screen"
+  "versionCode": 3,
+  "version": "0.2.0",
+  "apk": "tern-android-0.2.0.apk",
+  "sha256": "be02202a79b6d1e5f6bf78d079bc0ff7ced7294b83a992532346ff152a48d166",
+  "size": 80015,
+  "notes": "Share to Tern, camera, edit, search, tuloy ang sagot kahit naka-lock, fingerprint, read aloud, share chat, custom instructions"
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "version": "0.3.1",
-  "apk": "tern-android-0.3.1.apk",
-  "sha256": "532b8f75196239698b93568f34e31448867e506ef539d59e7426817474fd4442",
-  "size": 105431,
-  "notes": "Mga ayos: Share habang sumasagot, Undo kita sa menu, Continue, hold vs swipe, shortcut habang sumasagot"
+  "versionCode": 6,
+  "version": "0.4.0",
+  "apk": "tern-android-0.4.0.apk",
+  "sha256": "1f45e700b7b6820d9149b69f2ce465717e582e87b8fb34d5b91c5f2a76f6a458",
+  "size": 114091,
+  "notes": "Bagong menu: folders, archive, piliin ang marami, Files, kulay/emoji, model at mode sa ibaba, GX10 status, theme at laki ng letra"
 }
